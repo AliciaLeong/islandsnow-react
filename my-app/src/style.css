@@ -1,0 +1,23 @@
+.ui.borderless.menu{
+  background-color: #f5f5f5;
+  border: none;
+  box-shadow: none;
+}
+
+#logo{
+  max-width: 230px;
+}
+
+#bottom{
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 16px;
+}
+
+hr {
+  color: #f5f5f5;
+  text-align: center;
+  margin-top: 30px;
+  padding-right: 30px;
+  padding-left: 30px;
+  border-top: 1px solid #e5e5e5;
+}
